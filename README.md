@@ -1,4 +1,6 @@
-# Sanitize String Class  
+# Sanitize String Class
+
+[![Version](https://poser.pugx.org/vgd/sanitize_string/version)](//packagist.org/packages/vgd/sanitize_string) [![Total Downloads](https://poser.pugx.org/vgd/sanitize_string/downloads)](//packagist.org/packages/vgd/sanitize_string) [![Latest Unstable Version](https://poser.pugx.org/vgd/sanitize_string/v/unstable)](//packagist.org/packages/vgd/sanitize_string) [![License](https://poser.pugx.org/vgd/sanitize_string/license)](//packagist.org/packages/vgd/sanitize_string)
 
 Sometimes you may want to clean a filename or string from foreign languages characters; with this class you can do both.
 
@@ -6,6 +8,12 @@ Sometimes you may want to clean a filename or string from foreign languages char
 ## Usage
 
 ```
+Install via composer:
+
+composer require vgd/sanitize_string
+
+or
+
 require('SanitizeString.php');
 
 
