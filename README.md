@@ -8,6 +8,12 @@ Sometimes you may want to clean a filename or string from foreign languages char
 ## Usage
 
 ```
+Install via composer:
+
+composer require vgd/sanitize_string
+
+or
+
 require('SanitizeString.php');
 
 
